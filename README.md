@@ -56,7 +56,7 @@ To run this Banking Management System project, follow these steps:
 ### **1. Clone the Repository**
 
 First, clone this GitHub repository to your local machine. You can do this by running the following command in your terminal:
-git clone https://github.com/adhassanza/Banking_Managent_System.git
+git clone [https://github.com/adhassanza/Banking_Managent_System.git](https://github.com/Hamza20203064/Banking_Managent_System.git)
 
 ### **2. Compile the Code**
 
