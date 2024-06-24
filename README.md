@@ -10,7 +10,7 @@ Represents a bank account with attributes such as account number, first name, la
 Provides methods for depositing and withdrawing money.
 Implements encapsulation by using private member variables and public methods to access them.
 
-## **2.SavingsAccount and CheckingAccount Classes:**
+## **2. SavingsAccount and CheckingAccount Classes:**
 
 Inherit from the Account class, demonstrating inheritance.
 Extend the Account class with specialized methods.
