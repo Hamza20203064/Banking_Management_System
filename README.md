@@ -1,5 +1,5 @@
 
-# Banking_Managent_System
+# Banking_Management_System
 Practical implementation of OOPs
 
 This system is developed to illustrate key OOP concepts like encapsulation, abstraction, inheritance, and polymorphism.
